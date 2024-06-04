@@ -9,6 +9,9 @@ int main()
 {
     string baris;
 
+    //membuka  file dalama mode menulis 
+    ofstream outfile; 
+
    
 }
 
