@@ -11,7 +11,8 @@ int main()
 
     //membuka  file dalama mode menulis 
     ofstream outfile; 
-
+    // menunjuk ke sebuah nama file 
+    outfile.open("contohfile.txt");
    
 }
 
